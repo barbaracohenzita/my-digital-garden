@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chess-openings/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/chess-openings/","dgPassFrontmatter":true}
 ---
 
 # Chess Openings
