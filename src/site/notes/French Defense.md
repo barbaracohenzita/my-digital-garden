@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/french-defense/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/french-defense/","dgPassFrontmatter":true}
 ---
 
 # French Defense

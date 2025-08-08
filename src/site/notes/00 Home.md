@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-home/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"permalink":"/00-home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # Chess Mastery Wiki

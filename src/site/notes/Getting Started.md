@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-started/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/getting-started/","dgPassFrontmatter":true}
 ---
 
 # Getting Started with Chess

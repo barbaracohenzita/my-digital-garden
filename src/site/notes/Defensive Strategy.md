@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/defensive-strategy/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/defensive-strategy/","dgPassFrontmatter":true}
 ---
 
 # Defensive Strategy

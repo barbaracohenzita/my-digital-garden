@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/counter-attack/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/counter-attack/","dgPassFrontmatter":true}
 ---
 
 # Counter-Attack

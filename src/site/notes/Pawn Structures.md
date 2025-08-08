@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pawn-structures/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/pawn-structures/","dgPassFrontmatter":true}
 ---
 
 # Pawn Structures

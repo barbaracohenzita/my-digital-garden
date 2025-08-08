@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tactical-patterns/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/tactical-patterns/","dgPassFrontmatter":true}
 ---
 
 # Tactical Patterns

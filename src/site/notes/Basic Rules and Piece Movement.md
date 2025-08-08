@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/basic-rules-and-piece-movement/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/basic-rules-and-piece-movement/","dgPassFrontmatter":true}
 ---
 
 # Basic Rules

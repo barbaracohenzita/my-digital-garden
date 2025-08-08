@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/king-safety/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/king-safety/","dgPassFrontmatter":true}
 ---
 

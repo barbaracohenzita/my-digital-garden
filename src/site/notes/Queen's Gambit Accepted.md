@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/queen-s-gambit-accepted/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/queen-s-gambit-accepted/","dgPassFrontmatter":true}
 ---
 
 # Queen's Gambit Accepted

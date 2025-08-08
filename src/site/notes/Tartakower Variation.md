@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tartakower-variation/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/tartakower-variation/","dgPassFrontmatter":true}
 ---
 
 # Tartakower Variation
