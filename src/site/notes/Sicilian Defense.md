@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/sicilian-defense/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sicilian-defense/"}
 ---
 

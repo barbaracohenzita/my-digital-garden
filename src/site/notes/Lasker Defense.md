@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lasker-defense/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/lasker-defense/"}
 ---
 
 # Lasker Defense

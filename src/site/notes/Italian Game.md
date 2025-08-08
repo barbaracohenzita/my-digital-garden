@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/italian-game/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/italian-game/"}
 ---
 
 # Italian Game

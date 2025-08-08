@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fianchetto-variation/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/fianchetto-variation/"}
 ---
 
 # Fianchetto Variation (Queen's Indian Defense)

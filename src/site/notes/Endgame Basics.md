@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/endgame-basics/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/endgame-basics/"}
 ---
 
 # Endgame Basics

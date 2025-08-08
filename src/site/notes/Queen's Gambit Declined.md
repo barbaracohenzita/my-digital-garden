@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/queen-s-gambit-declined/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/queen-s-gambit-declined/"}
 ---
 
 # Queen's Gambit Declined

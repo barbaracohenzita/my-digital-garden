@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/combination-patterns/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/combination-patterns/"}
 ---
 
 # Combination Patterns

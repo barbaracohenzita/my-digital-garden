@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/slav-and-semi-slav-defenses/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/slav-and-semi-slav-defenses/"}
 ---
 
 # Slav and Semi-Slav Defenses

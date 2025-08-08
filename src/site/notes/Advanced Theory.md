@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/advanced-theory/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/advanced-theory/"}
 ---
 
 # Advanced Opening Theory

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tactical-motifs/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/tactical-motifs/"}
 ---
 
 # Tactical Motifs

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/orthodox-defense/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/orthodox-defense/"}
 ---
 
 # Orthodox Defense

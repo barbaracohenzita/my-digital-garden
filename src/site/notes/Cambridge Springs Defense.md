@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/cambridge-springs-defense/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cambridge-springs-defense/"}
 ---
 
 # Cambridge Springs Defense

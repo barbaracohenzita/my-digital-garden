@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/opening-principles/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/opening-principles/"}
 ---
 
 # Opening Principles

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/queen-s-indian-defense/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/queen-s-indian-defense/"}
 ---
 
 # Queen's Indian Defense

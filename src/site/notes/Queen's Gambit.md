@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/queen-s-gambit/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/queen-s-gambit/"}
 ---
 
 # Queen's Gambit

@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/caro-kann-defense/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/caro-kann-defense/"}
 ---
 

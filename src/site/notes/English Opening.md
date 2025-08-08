@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/english-opening/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/english-opening/"}
 ---
 
 # English Opening
